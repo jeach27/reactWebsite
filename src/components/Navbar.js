@@ -1,5 +1,6 @@
+/* eslint-disable jsx-a11y/alt-text */
 import React from 'react'
-import logo from '../assets/logoPizza.webp'
+import logo from '../assets/logoP.jpg'
 
 function Navbar() {
   return (
